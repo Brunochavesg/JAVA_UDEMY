@@ -9,6 +9,7 @@ public class Temperatura {
 		double f;
 		double C;
 		
+		
 		System.out.println("Digite um valor em Fº: ");
 		
 			
