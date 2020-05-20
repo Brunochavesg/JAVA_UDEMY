@@ -1,0 +1,19 @@
+nome
+
+tipos primitivos
+byte idade
+short meses de salario
+float salario
+double cpf
+booleano 
+char tipo de sangue
+
+nome com letras maiusculas
+Se contem letra no nome
+
+
+
+
+
+
+
